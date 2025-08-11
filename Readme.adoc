@@ -11,6 +11,9 @@ Here are some conventions and caveats for future translators.
 1. Date/time values are not localized.
 Example: `Dieses Buch wurde am Tue May 27 11:39:42 AM PDT 2025 mit LANG auf Einstellung de_DE.UTF-8...`.
 
+2. Asterix within certain terms, i.e. Reisende*r
+German is a gendered language and to accommodate gender identities outside of the binary, male and female version of certain terms are seperated by an asterix. So for example, the word for traveler is Reisende (female) or Reisender (male). By including the asterix (Reisende*r), the word is inclusive to men, women and people outside the binary.
+
 == 📑 to do
 
 * [ ] translate the word "Colophon"
